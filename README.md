@@ -40,6 +40,7 @@ A full-stack task management application with real-time collaboration, drag-and-
 **Deployment:** GitHub, Render
 
 ## 📁 Project Structure
+
 task-management-app/
 ├── backend/ # Node.js + Express API
 ├── frontend/ # React + Vite App
