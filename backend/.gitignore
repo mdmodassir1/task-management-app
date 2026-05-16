@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment - DON'T commit .env
+.env
+.env.local
+.env.production
+
+# Build
+dist/
+build/
+
+# Uploads
+uploads/
+temp/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
