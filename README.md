@@ -4,7 +4,7 @@ A full-stack task management application with real-time collaboration, drag-and-
 
 ## 🚀 Live Demo
 
-**Frontend:** https://task-management-app.onrender.com *(Coming soon)*
+**Live:** https://task-management-app-1-6gbr.onrender.com/register
 
 **Test Credentials:**
 - Email: modo@gmail.com
